@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Suprabhat Chandra Banerjee — a passionate developer focused on building intelligent software systems using Java, Spring Boot, Angular, Python, AI/ML, LangChain, and Agentic AI.
+Hi, I'm Suprabhat Kumar (S.C.B) — a passionate developer focused on building intelligent software systems using Java, Spring Boot, Angular, Python, AI/ML, LangChain, and Agentic AI.
 
 
 ## 🌐 Socials:
